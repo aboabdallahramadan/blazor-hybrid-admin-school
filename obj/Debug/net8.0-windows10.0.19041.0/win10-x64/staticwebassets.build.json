@@ -1,0 +1,1015 @@
+{
+  "Version": 1,
+  "Hash": "kL6rmPDvHzidJoCi/rpIyYMF2shNzC8E3y53l/iKCVo=",
+  "Source": "MauiApp1",
+  "BasePath": "/",
+  "Mode": "Root",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MauiApp1\\wwwroot",
+      "Source": "MauiApp1",
+      "ContentRoot": "C:\\Users\\Dell\\Desktop\\web projects\\SunRise\\Sun Rise\\MauiApp1\\MauiApp1\\wwwroot\\",
+      "BasePath": "/",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Dell\\.nuget\\packages\\blazored.toast\\4.2.1\\staticwebassets\\Blazored.Toast.bundle.scp.css",
+      "SourceId": "Blazored.Toast",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\Dell\\.nuget\\packages\\blazored.toast\\4.2.1\\staticwebassets\\",
+      "BasePath": "_content/Blazored.Toast",
+      "RelativePath": "Blazored.Toast.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "Fingerprint": "2eijknf10w",
+      "Integrity": "Jpy8GsZRrXfBBSxMmBBAzhap27c5/Nt85Nt7V3JT3B4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Dell\\.nuget\\packages\\blazored.toast\\4.2.1\\staticwebassets\\Blazored.Toast.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\Dell\\Desktop\\web projects\\SunRise\\Sun Rise\\MauiApp1\\MauiApp1\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\MauiApp1.styles.css",
+      "SourceId": "MauiApp1",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Dell\\Desktop\\web projects\\SunRise\\Sun Rise\\MauiApp1\\MauiApp1\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\",
+      "BasePath": "/",
+      "RelativePath": "MauiApp1#[.{fingerprint}]?.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "Fingerprint": "39ahg0z9ru",
+      "Integrity": "2TFnJxnre6bu6kTQUIJ554eHkBl4jrmEEcadnNp0o20=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Dell\\Desktop\\web projects\\SunRise\\Sun Rise\\MauiApp1\\MauiApp1\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\MauiApp1.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\Dell\\Desktop\\web projects\\SunRise\\Sun Rise\\MauiApp1\\MauiApp1\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\scopedcss\\projectbundle\\MauiApp1.bundle.scp.css",
+      "SourceId": "MauiApp1",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Dell\\Desktop\\web projects\\SunRise\\Sun Rise\\MauiApp1\\MauiApp1\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\scopedcss\\projectbundle\\",
+      "BasePath": "/",
+      "RelativePath": "MauiApp1#[.{fingerprint}]!.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "Fingerprint": "7k7whb7rur",
+      "Integrity": "R9vTFYF01J1QHJt5DWRQSaIWvkwWaoAKD96uFG4D6o4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Dell\\Desktop\\web projects\\SunRise\\Sun Rise\\MauiApp1\\MauiApp1\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\scopedcss\\projectbundle\\MauiApp1.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\Dell\\Desktop\\web projects\\SunRise\\Sun Rise\\MauiApp1\\MauiApp1\\wwwroot\\css\\app.css",
+      "SourceId": "MauiApp1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Dell\\Desktop\\web projects\\SunRise\\Sun Rise\\MauiApp1\\MauiApp1\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "css/app#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "s9xw765wv9",
+      "Integrity": "cP8wxAZrsl9L1TShazVFX4He0SFCsP6gYoq9rQ+EFiw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\app.css"
+    },
+    {
+      "Identity": "C:\\Users\\Dell\\Desktop\\web projects\\SunRise\\Sun Rise\\MauiApp1\\MauiApp1\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "SourceId": "MauiApp1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Dell\\Desktop\\web projects\\SunRise\\Sun Rise\\MauiApp1\\MauiApp1\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "css/bootstrap/bootstrap.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6gzpyzhau4",
+      "Integrity": "SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\Dell\\Desktop\\web projects\\SunRise\\Sun Rise\\MauiApp1\\MauiApp1\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "SourceId": "MauiApp1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Dell\\Desktop\\web projects\\SunRise\\Sun Rise\\MauiApp1\\MauiApp1\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "css/bootstrap/bootstrap.min.css#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8inm30yfxf",
+      "Integrity": "gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\Dell\\Desktop\\web projects\\SunRise\\Sun Rise\\MauiApp1\\MauiApp1\\wwwroot\\favicon.png",
+      "SourceId": "MauiApp1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Dell\\Desktop\\web projects\\SunRise\\Sun Rise\\MauiApp1\\MauiApp1\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "favicon#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ifv42okdf2",
+      "Integrity": "4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\favicon.png"
+    },
+    {
+      "Identity": "C:\\Users\\Dell\\Desktop\\web projects\\SunRise\\Sun Rise\\MauiApp1\\MauiApp1\\wwwroot\\index.html",
+      "SourceId": "MauiApp1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Dell\\Desktop\\web projects\\SunRise\\Sun Rise\\MauiApp1\\MauiApp1\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "mi6xxfp725",
+      "Integrity": "wrPon2n0k6ffrMXGybqZYUGL+X6KH3uESfHXEBdlDaM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\Dell\\Desktop\\web projects\\SunRise\\Sun Rise\\MauiApp1\\MauiApp1\\wwwroot\\js\\modal.js",
+      "SourceId": "MauiApp1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Dell\\Desktop\\web projects\\SunRise\\Sun Rise\\MauiApp1\\MauiApp1\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "js/modal#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "dswr4ukg43",
+      "Integrity": "QyW1PdZ43nijItztr7XMV+WRFEgPE5459hFqNeDNGug=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\modal.js"
+    },
+    {
+      "Identity": "C:\\Users\\Dell\\Desktop\\web projects\\SunRise\\Sun Rise\\MauiApp1\\MauiApp1\\wwwroot\\logo.png",
+      "SourceId": "MauiApp1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Dell\\Desktop\\web projects\\SunRise\\Sun Rise\\MauiApp1\\MauiApp1\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "logo#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "1gfakl6aqv",
+      "Integrity": "T6tJLENxin29rl5ENOZ6LclX2SgbxtjKXF+HA4EGIqQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\logo.png"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "_content/Blazored.Toast/Blazored.Toast.bundle.scp.css",
+      "AssetFile": "C:\\Users\\Dell\\.nuget\\packages\\blazored.toast\\4.2.1\\staticwebassets\\Blazored.Toast.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3483"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Jpy8GsZRrXfBBSxMmBBAzhap27c5/Nt85Nt7V3JT3B4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 19 Mar 2024 16:42:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Jpy8GsZRrXfBBSxMmBBAzhap27c5/Nt85Nt7V3JT3B4="
+        }
+      ]
+    },
+    {
+      "Route": "css/app.css",
+      "AssetFile": "C:\\Users\\Dell\\Desktop\\web projects\\SunRise\\Sun Rise\\MauiApp1\\MauiApp1\\wwwroot\\css\\app.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4963"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cP8wxAZrsl9L1TShazVFX4He0SFCsP6gYoq9rQ+EFiw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 17 Sep 2024 17:30:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-cP8wxAZrsl9L1TShazVFX4He0SFCsP6gYoq9rQ+EFiw="
+        }
+      ]
+    },
+    {
+      "Route": "css/app.s9xw765wv9.css",
+      "AssetFile": "C:\\Users\\Dell\\Desktop\\web projects\\SunRise\\Sun Rise\\MauiApp1\\MauiApp1\\wwwroot\\css\\app.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4963"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cP8wxAZrsl9L1TShazVFX4He0SFCsP6gYoq9rQ+EFiw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 17 Sep 2024 17:30:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "s9xw765wv9"
+        },
+        {
+          "Name": "label",
+          "Value": "css/app.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-cP8wxAZrsl9L1TShazVFX4He0SFCsP6gYoq9rQ+EFiw="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.6gzpyzhau4.css",
+      "AssetFile": "C:\\Users\\Dell\\Desktop\\web projects\\SunRise\\Sun Rise\\MauiApp1\\MauiApp1\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "162726"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 17 Sep 2024 17:30:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6gzpyzhau4"
+        },
+        {
+          "Name": "label",
+          "Value": "css/bootstrap/bootstrap.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.css",
+      "AssetFile": "C:\\Users\\Dell\\Desktop\\web projects\\SunRise\\Sun Rise\\MauiApp1\\MauiApp1\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "162726"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 17 Sep 2024 17:30:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.css.8inm30yfxf.map",
+      "AssetFile": "C:\\Users\\Dell\\Desktop\\web projects\\SunRise\\Sun Rise\\MauiApp1\\MauiApp1\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "449111"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 17 Sep 2024 17:30:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8inm30yfxf"
+        },
+        {
+          "Name": "label",
+          "Value": "css/bootstrap/bootstrap.min.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.css.map",
+      "AssetFile": "C:\\Users\\Dell\\Desktop\\web projects\\SunRise\\Sun Rise\\MauiApp1\\MauiApp1\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "449111"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 17 Sep 2024 17:30:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.ifv42okdf2.png",
+      "AssetFile": "C:\\Users\\Dell\\Desktop\\web projects\\SunRise\\Sun Rise\\MauiApp1\\MauiApp1\\wwwroot\\favicon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1148"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Jun 2024 15:36:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ifv42okdf2"
+        },
+        {
+          "Name": "label",
+          "Value": "favicon.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.png",
+      "AssetFile": "C:\\Users\\Dell\\Desktop\\web projects\\SunRise\\Sun Rise\\MauiApp1\\MauiApp1\\wwwroot\\favicon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1148"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Jun 2024 15:36:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\Dell\\Desktop\\web projects\\SunRise\\Sun Rise\\MauiApp1\\MauiApp1\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1328"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wrPon2n0k6ffrMXGybqZYUGL+X6KH3uESfHXEBdlDaM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 01 Jul 2024 17:19:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-wrPon2n0k6ffrMXGybqZYUGL+X6KH3uESfHXEBdlDaM="
+        }
+      ]
+    },
+    {
+      "Route": "index.mi6xxfp725.html",
+      "AssetFile": "C:\\Users\\Dell\\Desktop\\web projects\\SunRise\\Sun Rise\\MauiApp1\\MauiApp1\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1328"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wrPon2n0k6ffrMXGybqZYUGL+X6KH3uESfHXEBdlDaM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 01 Jul 2024 17:19:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mi6xxfp725"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-wrPon2n0k6ffrMXGybqZYUGL+X6KH3uESfHXEBdlDaM="
+        }
+      ]
+    },
+    {
+      "Route": "js/modal.dswr4ukg43.js",
+      "AssetFile": "C:\\Users\\Dell\\Desktop\\web projects\\SunRise\\Sun Rise\\MauiApp1\\MauiApp1\\wwwroot\\js\\modal.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "408"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QyW1PdZ43nijItztr7XMV+WRFEgPE5459hFqNeDNGug=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 17 Sep 2024 17:30:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dswr4ukg43"
+        },
+        {
+          "Name": "label",
+          "Value": "js/modal.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-QyW1PdZ43nijItztr7XMV+WRFEgPE5459hFqNeDNGug="
+        }
+      ]
+    },
+    {
+      "Route": "js/modal.js",
+      "AssetFile": "C:\\Users\\Dell\\Desktop\\web projects\\SunRise\\Sun Rise\\MauiApp1\\MauiApp1\\wwwroot\\js\\modal.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "408"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QyW1PdZ43nijItztr7XMV+WRFEgPE5459hFqNeDNGug=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 17 Sep 2024 17:30:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-QyW1PdZ43nijItztr7XMV+WRFEgPE5459hFqNeDNGug="
+        }
+      ]
+    },
+    {
+      "Route": "logo.1gfakl6aqv.png",
+      "AssetFile": "C:\\Users\\Dell\\Desktop\\web projects\\SunRise\\Sun Rise\\MauiApp1\\MauiApp1\\wwwroot\\logo.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "74705"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"T6tJLENxin29rl5ENOZ6LclX2SgbxtjKXF+HA4EGIqQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 13 Jul 2024 11:32:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1gfakl6aqv"
+        },
+        {
+          "Name": "label",
+          "Value": "logo.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-T6tJLENxin29rl5ENOZ6LclX2SgbxtjKXF+HA4EGIqQ="
+        }
+      ]
+    },
+    {
+      "Route": "logo.png",
+      "AssetFile": "C:\\Users\\Dell\\Desktop\\web projects\\SunRise\\Sun Rise\\MauiApp1\\MauiApp1\\wwwroot\\logo.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "74705"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"T6tJLENxin29rl5ENOZ6LclX2SgbxtjKXF+HA4EGIqQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 13 Jul 2024 11:32:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-T6tJLENxin29rl5ENOZ6LclX2SgbxtjKXF+HA4EGIqQ="
+        }
+      ]
+    },
+    {
+      "Route": "MauiApp1.39ahg0z9ru.styles.css",
+      "AssetFile": "C:\\Users\\Dell\\Desktop\\web projects\\SunRise\\Sun Rise\\MauiApp1\\MauiApp1\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\MauiApp1.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5549"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2TFnJxnre6bu6kTQUIJ554eHkBl4jrmEEcadnNp0o20=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Sep 2024 16:09:39 GMT"
+        },
+        {
+          "Name": "Link",
+          "Value": "<_content/Blazored.Toast/Blazored.Toast.bundle.scp.css>; rel=\"preload\"; as=\"style\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "39ahg0z9ru"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2TFnJxnre6bu6kTQUIJ554eHkBl4jrmEEcadnNp0o20="
+        },
+        {
+          "Name": "label",
+          "Value": "MauiApp1.styles.css"
+        }
+      ]
+    },
+    {
+      "Route": "MauiApp1.7k7whb7rur.bundle.scp.css",
+      "AssetFile": "C:\\Users\\Dell\\Desktop\\web projects\\SunRise\\Sun Rise\\MauiApp1\\MauiApp1\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\scopedcss\\projectbundle\\MauiApp1.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5481"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"R9vTFYF01J1QHJt5DWRQSaIWvkwWaoAKD96uFG4D6o4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Sep 2024 16:09:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7k7whb7rur"
+        },
+        {
+          "Name": "label",
+          "Value": "MauiApp1.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-R9vTFYF01J1QHJt5DWRQSaIWvkwWaoAKD96uFG4D6o4="
+        }
+      ]
+    },
+    {
+      "Route": "MauiApp1.bundle.scp.css",
+      "AssetFile": "C:\\Users\\Dell\\Desktop\\web projects\\SunRise\\Sun Rise\\MauiApp1\\MauiApp1\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\scopedcss\\projectbundle\\MauiApp1.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5481"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"R9vTFYF01J1QHJt5DWRQSaIWvkwWaoAKD96uFG4D6o4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Sep 2024 16:09:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-R9vTFYF01J1QHJt5DWRQSaIWvkwWaoAKD96uFG4D6o4="
+        }
+      ]
+    },
+    {
+      "Route": "MauiApp1.styles.css",
+      "AssetFile": "C:\\Users\\Dell\\Desktop\\web projects\\SunRise\\Sun Rise\\MauiApp1\\MauiApp1\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\MauiApp1.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5549"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2TFnJxnre6bu6kTQUIJ554eHkBl4jrmEEcadnNp0o20=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Sep 2024 16:09:39 GMT"
+        },
+        {
+          "Name": "Link",
+          "Value": "<_content/Blazored.Toast/Blazored.Toast.bundle.scp.css>; rel=\"preload\"; as=\"style\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2TFnJxnre6bu6kTQUIJ554eHkBl4jrmEEcadnNp0o20="
+        }
+      ]
+    }
+  ]
+}
